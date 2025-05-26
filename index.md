@@ -6,3 +6,6 @@
 ``` python
 saludo = "¡Hola, mundo!"
 ```
+- [ ] Elemento 1
+- [ ] Elemento 2
+- [x] Elemento 3
